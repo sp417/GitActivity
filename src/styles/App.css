@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
